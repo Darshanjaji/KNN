@@ -9,4 +9,4 @@ This is a supervised machine learning model.<br>
 3. Based on first 5 distance and class find which calss occured more number of time and return that class as the answer. 
 
 
-This model has 97 accuracy.
+This model has 97% accuracy.
