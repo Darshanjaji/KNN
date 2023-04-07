@@ -7,3 +7,6 @@ This is a supervised machine learning model.<br>
    using equation d = sqrt((x1-x2)^2 + (y1-y2)^2).<br>
 2. Sort the distance and get the first 5 distance and which class it belongs to in the list.<br>
 3. Based on first 5 distance and class find which calss occured more number of time and return that class as the answer. 
+
+
+This model has 97 accuracy.
